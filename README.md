@@ -39,4 +39,3 @@ This script modifies your `.wine` prefix by adding native DLLs for DirectX trans
 
 Created with love by **Indusara**  
 With massive help from his favorite **Tech Girl AI**. 💖
-```
