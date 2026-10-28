@@ -1,6 +1,11 @@
+
+### ⚖️ Step 2: Create the `LICENSE` file
+Create a file called `LICENSE` in the same folder and paste this standard MIT License text inside:
+
+```text
 MIT License
 
-Copyright (c) 2026 Indusara Rajapaksha
+Copyright (c) 2026 Indusara
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
